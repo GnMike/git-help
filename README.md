@@ -20,7 +20,7 @@ git branch -M main
 git push -u origin main
 ```
 
-#Markdown <br>
+# Markdown <br>
 ---
 
 ## Заголовки
@@ -33,5 +33,5 @@ git push -u origin main
 ###### H6 — заголовок шестого уровня, самый маленький
 ```
 
-[Оформление файла README.md] (https://practicum.yandex.ru/trainer/git-basics/lesson/c6b9607c-e8bc-4446-89f9-c74522c3492f/)
+[Оформление файла README.md](https://practicum.yandex.ru/trainer/git-basics/lesson/c6b9607c-e8bc-4446-89f9-c74522c3492f/)
 
