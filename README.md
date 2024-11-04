@@ -20,7 +20,6 @@ git push -u origin main
 ```
 <br>
 <br>
-<br>
 
 # Markdown
 ---
