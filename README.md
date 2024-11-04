@@ -87,21 +87,9 @@ git push -u origin main
 ## Код
 Чтобы оформить текст как код, нужно окружить его тройками косых кавычек — грависов. После первой тройки грависов указывают язык программирования, на котором написан код.
 
-`` ```bash ``
-```  ls - la ```
-``  ```  ``
-
-
 `` ```bash ``<br>
 ```ls - la ```<br>
 `` ``` ``<br>
-
-
-`` ```bash  
-ls - la  
-```   ``
-
-
 
 [Оформление файла README.md](https://practicum.yandex.ru/trainer/git-basics/lesson/c6b9607c-e8bc-4446-89f9-c74522c3492f/) <br>
 [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
