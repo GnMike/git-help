@@ -97,9 +97,9 @@ git push -u origin main
 `` ``` ``<br>
 
 
-`` ```bash
-ls - la
-``` ``
+`` ```bash  
+ls - la  
+```   ``
 
 
 
