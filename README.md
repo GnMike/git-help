@@ -92,6 +92,10 @@ git push -u origin main
 ``  ```  ``
 
 
+`` ```bash ``<br>
+```ls - la ```<br>
+`` ``` ``<br>
+
 
 [Оформление файла README.md](https://practicum.yandex.ru/trainer/git-basics/lesson/c6b9607c-e8bc-4446-89f9-c74522c3492f/) <br>
 [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
