@@ -66,5 +66,23 @@ git push -u origin main
 - второй пункт ненумерованного списка;
 ```
 
+## Ссылки
+```
+[Яндекс](https://www.yandex.ru)
+[Яндекс](https://www.yandex.ru "Я Yandex!")
+```
+
+## Код
+
+``````bash
+ls - la
+```
+
+```html
+<h1>А я просто текст</h1>
+``````
+
+
+
 [Оформление файла README.md](https://practicum.yandex.ru/trainer/git-basics/lesson/c6b9607c-e8bc-4446-89f9-c74522c3492f/) <br>
 [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
