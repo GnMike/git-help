@@ -18,9 +18,9 @@ git remote add origin git@github.com:%имя_аккаунта%/%имя_прое�
 git branch -M main
 git push -u origin main
 ```
-
-
-
+<br>
+<br>
+<br>
 # Markdown
 ---
 
