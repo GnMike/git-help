@@ -209,3 +209,15 @@ $ git commit -m "Fix #303, update bluelib dependency to version 4"
 ```
 
 
+## Mermaid-схема
+
+
+```mermaid
+graph LR;
+  untracked -- "git add"     --> staged;
+  staged    -- "git commit"  --> tracked/comitted;
+
+%% стрелка без текста для примера: 
+  A --> B;
+```
+
